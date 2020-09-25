@@ -1,3 +1,19 @@
+10/25
+-- loop over best response and average over all NE's. (or the worst NE). Analyze the characteristics of equilibrium
+-- Define worst? -- fewest vacc nodes
+                 -- min social distancing
+-- parallelize best response code 
+-- cost of cutting edges difficult to calibrate-- depends on compliance and income range
+-- cost of vacc (depends on insured or uninsured? cost of doc visits and tests? state/place of residence?)
+-- cost of tests different when tested positive and negative
+-- if symptoms or high exposure (outside home degree weighted by contact time) --> test 
+      --> negative then no additional cost or benefit (no stigma-- benefit?)
+      --> positive then early treatment and better compliance in social distancing with corresponding costs (increased treatment cost & reduced health cost & higher cost due to stigma; how to calibrate?)
+      --> false positive? (skip for now)
+-- is cost of stigma lower if you have smaller (non-household) degree? since low social capital: "Let's not consider stigma; not an issue in the US yet"
+-- characteristics of nodes that get tested; then target intervention to other classes
+
+
 10/18
 -- Node characteristics important in social distancing? demography important; disparities in compliance; compliance increases with age
 -- Cost of cutting an edge based on occupation? Test if it is by default reflected in network structure?
