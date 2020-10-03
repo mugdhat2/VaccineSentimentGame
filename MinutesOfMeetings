@@ -1,4 +1,11 @@
-10/25
+10/02
+-- Create 2 git repos: one to be shared with Travis. code, Under nssac; Another with papers, etc. 
+-- Different component characteristics upon SD and Vaxx.
+-- Hypothesis: even with uniform costs some pattern emerge from the the network properties
+-- Use Achla-Chen scenarios for disparities in outcome
+-- rank different public health policies for compliance/efficacy vs effect
+
+09/25
 -- loop over best response and average over all NE's. (or the worst NE). Analyze the characteristics of equilibrium
 -- Define worst? -- fewest vacc nodes
                  -- min social distancing
@@ -14,7 +21,7 @@
 -- characteristics of nodes that get tested; then target intervention to other classes
 
 
-10/18
+09/18
 -- Node characteristics important in social distancing? demography important; disparities in compliance; compliance increases with age
 -- Cost of cutting an edge based on occupation? Test if it is by default reflected in network structure?
 -- "Perceived" cost of sickness/treatment depends on income type: salary/wage
@@ -25,9 +32,8 @@
 -- FB survey; CMU; paid? BMC https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-019-3703-2
 -- community detection algorithms on Albemarle network: clustered community and trait distribution correlation? On weighted network, weights being the number of edges (contact time)
 
-10/11
+09/11
 -- social distancing and fairness for Virginia networks
--- MT: Albemarle county data combining network + demograhic
 -- covid analysis epihiper
 -- measles analysis epihiper (note no asymptomatic)
 -- Measles NIH coordinate + GitHub + travis, kayzer? Anil will initiate email; Mugdha coordinates.
