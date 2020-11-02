@@ -1,0 +1,23 @@
+Social distancing game experiments by Gaurav:
+-	More replicates needed
+-	Look at the largest component’s degree distribution 
+-	Mugdha and Gaurav will interpret results and discuss the plots to be created
+Adding demographic details to the games:
+-	Anil will think about if there is a way to justify comparing the outcomes with the survey paper’s results
+-	Mugdha will think about an experimental setup to find a range of alpha for which the perceived risk and social distancing compliance from the game is comparable to the survey paper’s results.
+-	Achla and Mugdha are trying to find estimates for alpha from literature.
+-	(future) Can Facebook survey on mask usage be used to inform any parameters in the model?
+Adding transmission process details:
+-	Anil and Mugdha will discuss adapting the approach from Andrews et al (2016)
+-	Use the output of the social distancing game as initial condition for EpiHiper. Details yet to be figured out.
+-	Instead of complete information, utility for each to be calculated using only information about the neighbors.
+Eventual goals (discussed over the past month):
+-	Include utilities of the externalities of interventions.
+-	Disparities between individual decision and public health recommendation due to differential costs associated with infection and interventions.
+-	Rank different interventions in the order of decreasing compliance 
+-	Consider tradeoff between cost and early treatment benefits of testing.
+-	How do results change when the goal is to maximize compliance vs minimize prevalence?
+-	Compare the results for household network and individual network.
+-	How to analyze results when more than one interventions are considered at a time in decision-making?
+ 
+Apart from this, we need to discuss the plan of action and schedule to meet with Travis for the Antivax hotspot project.
